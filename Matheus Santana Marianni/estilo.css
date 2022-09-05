@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(218, 236, 252);
+}
+
+h2{
+    padding: 1rem;
+}
+
+#row {
+    padding: 1rem;
+    width: auto;
+}
+
+#carouselExampleCaptions {
+    padding-top: 2rem;
+}
